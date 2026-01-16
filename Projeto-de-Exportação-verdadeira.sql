@@ -1,4 +1,3 @@
-entrou de primeira, agr ele ta assim:  -- ============================================================================
 -- CONTEÚDO:
 -- 1. Estrutura (Tabelas e Tipos)
 -- 2. Inteligência (Triggers e Automação)
@@ -340,4 +339,5 @@ GRANT SELECT ON vw_dashboard_operacional TO auditor_financeiro;
 GRANT SELECT ON cargas TO auditor_financeiro;
 
 -- Confirmação final
+
 SELECT 'SISTEMA 100% PRONTO: Indices, Users e Constraints aplicados.' as status_final;
